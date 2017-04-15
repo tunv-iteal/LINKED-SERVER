@@ -1,0 +1,7 @@
+E:\TH Frame4\GroupLinQ\GroupLinQ\bin\GroupLinQ.dll
+E:\TH Frame4\GroupLinQ\GroupLinQ\bin\GroupLinQ.pdb
+E:\TH Frame4\GroupLinQ\GroupLinQ\bin\Telerik.Web.Design.dll
+E:\TH Frame4\GroupLinQ\GroupLinQ\bin\Telerik.Web.UI.Skins.dll
+E:\TH Frame4\GroupLinQ\GroupLinQ\obj\Debug\GroupLinQ.dll
+E:\TH Frame4\GroupLinQ\GroupLinQ\obj\Debug\GroupLinQ.pdb
+E:\TH Frame4\GroupLinQ\GroupLinQ\obj\Debug\GroupLinQ.csprojResolveAssemblyReference.cache

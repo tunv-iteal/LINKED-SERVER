@@ -1,0 +1,458 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Product2.cs" caret="493" fromTop="23" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Car.cs" caret="515" fromTop="20" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Product.cs" caret="947" fromTop="19" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Web.config" caret="212" fromTop="7" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:DalHelper.cs" caret="793" fromTop="21" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:ClassTest.cs" caret="0" fromTop="0" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Site.Master.cs" caret="325" fromTop="14" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:About.aspx.cs" caret="3766" fromTop="47" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Default.aspx.cs" caret="817" fromTop="17" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:TreeviewInsideCbb.aspx.cs" caret="1417" fromTop="30" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:RecursiveSql.aspx.cs" caret="2883" fromTop="65" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:ProductsTest.aspx.cs" caret="938" fromTop="34" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:SelectMany.aspx.cs" caret="5618" fromTop="28" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:LinkedServer.aspx.cs" caret="1099" fromTop="31" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:TreeviewInsideCbb.aspx" caret="0" fromTop="0" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:RecursiveSql.aspx" caret="0" fromTop="0" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:LinkedServer.aspx" caret="0" fromTop="0" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:ProductsTest.aspx" caret="0" fromTop="0" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:SelectMany.aspx" caret="1210" fromTop="18" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:About.aspx" caret="595" fromTop="12" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="854" fromTop="10" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="1292" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5727" fromTop="9" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="16" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5727" fromTop="21" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="25" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="27" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="16" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2915" fromTop="32" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="14" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="29" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="15" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5727" fromTop="10" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="697" fromTop="5" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5727" fromTop="29" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2690" fromTop="34" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5727" fromTop="22" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2034" fromTop="37" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2523" fromTop="30" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2243" fromTop="28" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="340" fromTop="14" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5727" fromTop="10" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="5751" fromTop="87" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="597" fromTop="19" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="771" fromTop="26" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="940" fromTop="32" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="958" fromTop="33" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="1649" fromTop="25" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2062" fromTop="28" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="2579" fromTop="19" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx" caret="1062" fromTop="12" />
+      <File id="67F9B3F8-A7CA-4B7F-9B7C-FC7B078C5087/f:OrderDynamicColumn.aspx.cs" caret="1182" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="int" priority="756" />
+      <Item value="get" priority="98" />
+      <Item value="string" priority="1426" />
+      <Item value="List" priority="477" />
+      <Item value="StudentClass`0" priority="63" />
+      <Item value="Classes" priority="120" />
+      <Item value="new" priority="1792" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="list" priority="91" />
+      <Item value="StudentSchool`0" priority="31" />
+      <Item value="Student`0" priority="191" />
+      <Item value="Student" priority="113" />
+      <Item value="student" priority="319" />
+      <Item value="public" priority="1565" />
+      <Item value="for" priority="95" />
+      <Item value="Items" priority="31" />
+      <Item value="i" priority="383" />
+      <Item value="var" priority="1279" />
+      <Item value="if" priority="351" />
+      <Item value="else" priority="95" />
+      <Item value="listStudent" priority="63" />
+      <Item value="private" priority="383" />
+      <Item value="return" priority="127" />
+      <Item value="GetStudetns`0" priority="31" />
+      <Item value="students" priority="607" />
+      <Item value="t" priority="579" />
+      <Item value="GridView1" priority="447" />
+      <Item value="results" priority="159" />
+      <Item value="p1" priority="31" />
+      <Item value="p2" priority="31" />
+      <Item value="from" priority="863" />
+      <Item value="group" priority="223" />
+      <Item value="c" priority="1697" />
+      <Item value="by" priority="223" />
+      <Item value="sender" priority="31" />
+      <Item value="SelectedDatesCollection`0" priority="63" />
+      <Item value="into" priority="415" />
+      <Item value="select" priority="543" />
+      <Item value="grouped" priority="316" />
+      <Item value="char" priority="127" />
+      <Item value="class" priority="283" />
+      <Item value="Category`0" priority="97" />
+      <Item value="this" priority="224" />
+      <Item value="Id" priority="63" />
+      <Item value="Name" priority="91" />
+      <Item value="Product`0" priority="63" />
+      <Item value="proId" priority="31" />
+      <Item value="proName" priority="63" />
+      <Item value="cateId" priority="31" />
+      <Item value="void" priority="319" />
+      <Item value="Product" priority="116" />
+      <Item value="Category" priority="57" />
+      <Item value="products" priority="192" />
+      <Item value="join" priority="447" />
+      <Item value="p" priority="605" />
+      <Item value="catGroup" priority="95" />
+      <Item value="cat" priority="448" />
+      <Item value="GetLists`0" priority="63" />
+      <Item value="OrderedParallelQuery" priority="31" />
+      <Item value="orderby" priority="287" />
+      <Item value="Company`0" priority="63" />
+      <Item value="Int64`0" priority="31" />
+      <Item value="CompanyId" priority="95" />
+      <Item value="id" priority="31" />
+      <Item value="ComId" priority="31" />
+      <Item value="ComName" priority="63" />
+      <Item value="CompanyName" priority="31" />
+      <Item value="comId" priority="31" />
+      <Item value="Company" priority="57" />
+      <Item value="company" priority="30" />
+      <Item value="Select`2" priority="134" />
+      <Item value="index" priority="160" />
+      <Item value="School" priority="119" />
+      <Item value="Random`0" priority="32" />
+      <Item value="Random" priority="57" />
+      <Item value="rd" priority="129" />
+      <Item value="Students" priority="98" />
+      <Item value="School`0" priority="31" />
+      <Item value="Init" priority="63" />
+      <Item value="s" priority="290" />
+      <Item value="s1" priority="31" />
+      <Item value="s2" priority="31" />
+      <Item value="Class`0" priority="63" />
+      <Item value="List&lt;Class&gt;" priority="28" />
+      <Item value="null" priority="671" />
+      <Item value="length" priority="31" />
+      <Item value="currentClass" priority="63" />
+      <Item value="currentStudent" priority="31" />
+      <Item value="SchoolName" priority="95" />
+      <Item value="Class" priority="86" />
+      <Item value="ClassName" priority="122" />
+      <Item value="schools" priority="31" />
+      <Item value="catch" priority="63" />
+      <Item value="com" priority="31" />
+      <Item value="byte" priority="31" />
+      <Item value="GetJoin`0" priority="31" />
+      <Item value="NullReferenceException`0" priority="31" />
+      <Item value="ToList`0" priority="28" />
+      <Item value="categories" priority="31" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Car`0" priority="31" />
+      <Item value="List&lt;Car&gt;" priority="28" />
+      <Item value="Car" priority="28" />
+      <Item value="Vin" priority="95" />
+      <Item value="Make" priority="32" />
+      <Item value="Model" priority="32" />
+      <Item value="Year" priority="32" />
+      <Item value="Color" priority="32" />
+      <Item value="GetCars`0" priority="63" />
+      <Item value="cars" priority="191" />
+      <Item value="let" priority="31" />
+      <Item value="makeModel" priority="95" />
+      <Item value="vinAndMakes" priority="31" />
+      <Item value="SetDataSource`0" priority="31" />
+      <Item value="where" priority="127" />
+      <Item value="Enumerable`0" priority="63" />
+      <Item value="decimal" priority="31" />
+      <Item value="Repair`0" priority="31" />
+      <Item value="GetRepairs`0" priority="31" />
+      <Item value="repairs`0" priority="92" />
+      <Item value="r" priority="62" />
+      <Item value="carGroup" priority="31" />
+      <Item value="cr" priority="127" />
+      <Item value="windows" priority="31" />
+      <Item value="w" priority="63" />
+      <Item value="crossJoin" priority="31" />
+      <Item value="repairs" priority="63" />
+      <Item value="o" priority="31" />
+      <Item value="groupBy" priority="63" />
+      <Item value="re" priority="61" />
+      <Item value="reGourp" priority="31" />
+      <Item value="rG" priority="129" />
+      <Item value="carRepair" priority="31" />
+      <Item value="cR" priority="95" />
+      <Item value="Dictionary" priority="31" />
+      <Item value="companys" priority="95" />
+      <Item value="ToDictionary`2" priority="26" />
+      <Item value="dictionary" priority="32" />
+      <Item value="SqlTransaction`0" priority="28" />
+      <Item value="connection" priority="255" />
+      <Item value="transaction" priority="191" />
+      <Item value="SqlCommand`0" priority="63" />
+      <Item value="command" priority="219" />
+      <Item value="SqlCommand" priority="57" />
+      <Item value="SqlParameter`0" priority="31" />
+      <Item value="parameter" priority="27" />
+      <Item value="try" priority="63" />
+      <Item value="finally" priority="63" />
+      <Item value="InsertInStransaction`0" priority="31" />
+      <Item value="CommandType`0" priority="31" />
+      <Item value="command2" priority="63" />
+      <Item value="DateTime`0" priority="63" />
+      <Item value="using" priority="95" />
+      <Item value="TestTwo`0" priority="31" />
+      <Item value="nameList" priority="95" />
+      <Item value="n" priority="191" />
+      <Item value="l" priority="127" />
+      <Item value="classOne" priority="63" />
+      <Item value="#region" priority="31" />
+      <Item value="#endregion" priority="31" />
+      <Item value="ClassTest`0" priority="31" />
+      <Item value="sentences" priority="31" />
+      <Item value="m" priority="31" />
+      <Item value="Contains`1" priority="26" />
+      <Item value="ascending" priority="63" />
+      <Item value="descending" priority="31" />
+      <Item value="Label1" priority="63" />
+      <Item value="PLinQ`0" priority="31" />
+      <Item value="bool" priority="127" />
+      <Item value="IsShow" priority="31" />
+      <Item value="isShow" priority="63" />
+      <Item value="true" priority="255" />
+      <Item value="false" priority="159" />
+      <Item value="float" priority="95" />
+      <Item value="ProductID" priority="63" />
+      <Item value="proID" priority="63" />
+      <Item value="ProductName" priority="26" />
+      <Item value="Price`0" priority="95" />
+      <Item value="BasicPrice" priority="31" />
+      <Item value="price" priority="63" />
+      <Item value="show" priority="31" />
+      <Item value="set" priority="32" />
+      <Item value="Price" priority="57" />
+      <Item value="product" priority="31" />
+      <Item value="on" priority="31" />
+      <Item value="equals" priority="31" />
+      <Item value="groupPrice" priority="63" />
+      <Item value="gr" priority="128" />
+      <Item value="Address" priority="32" />
+      <Item value="Score" priority="32" />
+      <Item value="rgListJournal" priority="255" />
+      <Item value="IndexedString`0" priority="32" />
+      <Item value="AddColumn`0" priority="95" />
+      <Item value="IsPostBack" priority="127" />
+      <Item value="Test" priority="32" />
+      <Item value="GetDataSource`0" priority="31" />
+      <Item value="override" priority="191" />
+      <Item value="column" priority="95" />
+      <Item value="protected" priority="31" />
+      <Item value="as" priority="63" />
+      <Item value="ViewState" priority="63" />
+      <Item value="foreach" priority="31" />
+      <Item value="HeaderText" priority="32" />
+      <Item value="EnableViewState" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sort`0" priority="80" />
+      <Item value="Add`0" priority="26" />
+      <Item value="GroupJoin`4" priority="53" />
+      <Item value="GroupBy`2" priority="107" />
+      <Item value="Count`1" priority="26" />
+      <Item value="Select`2" priority="54" />
+      <Item value="Where`1" priority="161" />
+      <Item value="SelectMany`2" priority="138" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Student">
+      <Item value="SchoolId" priority="26" />
+      <Item value="SchoolName" priority="135" />
+      <Item value="ClassName" priority="244" />
+      <Item value="StudentName" priority="191" />
+      <Item value="StudentID" priority="45" />
+      <Item value="Score" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+      <Item value="Format`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataSource" priority="188" />
+      <Item value="DataBind`0" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Equals`0" priority="26" />
+      <Item value="CompareTo`0" priority="54" />
+      <Item value="Contains`0" priority="53" />
+      <Item value="Length" priority="107" />
+      <Item value="Trim`0" priority="26" />
+      <Item value="Split`0" priority="26" />
+      <Item value="StartsWith`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Category">
+      <Item value="CategoryId" priority="269" />
+      <Item value="CategoryName" priority="215" />
+      <Item value="CompanyId" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Product">
+      <Item value="ProductId" priority="134" />
+      <Item value="ProductName" priority="107" />
+      <Item value="CategoryId" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Company">
+      <Item value="CompanyId" priority="184" />
+      <Item value="CompanyName" priority="107" />
+      <Item value="IsShow" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="138" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="600" />
+      <Item value="Select`2" priority="191" />
+      <Item value="DefaultIfEmpty`1" priority="134" />
+      <Item value="SelectMany`2" priority="26" />
+      <Item value="OrderBy`2" priority="53" />
+      <Item value="Where`1" priority="107" />
+      <Item value="Contains`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ._Default+Student">
+      <Item value="School" priority="188" />
+      <Item value="Class" priority="190" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Key" priority="302" />
+      <Item value="Select`2" priority="111" />
+      <Item value="GroupBy`2" priority="112" />
+      <Item value="Classes" priority="27" />
+      <Item value="Sum`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Product2">
+      <Item value="CategoryID" priority="26" />
+      <Item value="ProductName" priority="26" />
+      <Item value="Price" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Category2">
+      <Item value="CategoryID" priority="53" />
+      <Item value="CategoryName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Car">
+      <Item value="Make" priority="134" />
+      <Item value="Model" priority="107" />
+      <Item value="Vin" priority="378" />
+      <Item value="Year" priority="53" />
+      <Item value="Color" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.Repair">
+      <Item value="Vin" priority="296" />
+      <Item value="Desc" priority="80" />
+      <Item value="Cost" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="BeginTransaction`0" priority="26" />
+      <Item value="Open`0" priority="26" />
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlTransaction">
+      <Item value="Commit`0" priority="26" />
+      <Item value="Rollback`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="CommandText" priority="53" />
+      <Item value="CommandType" priority="49" />
+      <Item value="Parameters" priority="53" />
+      <Item value="ExecuteNonQuery`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.CommandType">
+      <Item value="StoredProcedure" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="AddWithValue`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.ClassTest">
+      <Item value="Students" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="GetValueOrDefault`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.ProductsTest+Product">
+      <Item value="ProductID" priority="53" />
+      <Item value="ProductName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GroupLinQ.ProductsTest+Price">
+      <Item value="ProductID" priority="53" />
+      <Item value="BasicPrice" priority="53" />
+      <Item value="isShow" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.Web.UI.RadGrid">
+      <Item value="DataSource" priority="26" />
+      <Item value="DataBind`0" priority="81" />
+      <Item value="Rebind`0" priority="81" />
+      <Item value="NeedDataSource" priority="53" />
+      <Item value="Columns" priority="26" />
+      <Item value="MasterTableView" priority="26" />
+      <Item value="EnableViewState" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="SortExpression" priority="13" />
+      <Item value="DataField" priority="6" />
+      <Item value="CurrentFilterFunction" priority="6" />
+      <Item value="Contains" priority="6" />
+      <Item value="AutoPostBackOnFilter" priority="6" />
+      <Item value="ShowFilterIcon" priority="6" />
+      <Item value="Skin" priority="13" />
+      <Item value="GroupingEnabled" priority="7" />
+      <Item value="NeedDataSource" priority="6" />
+      <Item value="None" priority="6" />
+      <Item value="EnableViewState" priority="6" />
+      <Item value="telerik" priority="6" />
+      <Item value="RadAjaxPanel`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.Web.UI.GridColumnCollection">
+      <Item value="FindByUniqueName`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.Web.UI.GridTableView">
+      <Item value="Rebind`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
